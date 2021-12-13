@@ -4,9 +4,6 @@
     ],
     "folders": [
         {
-            "name": "vx_recycle_bin"
-        },
-        {
             "name": "基础"
         },
         {
@@ -14,5 +11,7 @@
         }
     ],
     "id": "1",
-    "version": "1"
+    "modified_time": "",
+    "signature": "177733048721",
+    "version": 3
 }
